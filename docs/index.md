@@ -3,9 +3,7 @@ layout: default
 title: Home
 ---
 
-<div class="hero">
-    <img src="assets/images/hero.png">
-</div>
+![](assets/images/hero.png)
 
 # Mathematics for AI
 
