@@ -1,3 +1,12 @@
 title: Mathematics for AI
 description: Course website and materials for Mathematics for AI
-theme: just-the-docs
+
+remote_theme: just-the-docs/just-the-docs
+
+plugins:
+  - jekyll-remote-theme
+
+url: "https://yding2.github.io"
+baseurl: "/math-for-ai"
+
+color_scheme: lightust-the-docs
