@@ -4,7 +4,7 @@ Welcome to the course website for **Mathematics for AI**.
 
 ## Course Materials
 
-- Syllabus
+- [Syllabus](syllabus.md)
 - Schedule
 - Lecture Slides
 - Python Notebooks
