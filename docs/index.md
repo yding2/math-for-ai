@@ -3,6 +3,10 @@ layout: default
 title: Home
 ---
 
+========================
+![](assets/images/banner-purple.png)
+========================
+
 # Mathematics for AI
 
 > **Building the Mathematical Foundation Behind Modern Artificial Intelligence**
@@ -67,11 +71,3 @@ We will revisit the same AI examples throughout the semester:
 - Jupyter Notebooks
 - Homework
 - Additional Resources
-
-## Course Materials
-
-- [Course Syllabus](syllabus.md)
-- [Course Schedule](schedule.md)
-- [Week 1](week01.md)
-- [Week 2](week02.md)
-- [Week 3](week03.md)
